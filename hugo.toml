@@ -1,5 +1,84 @@
-baseURL = "https://gottajsx.netlify.app/"
+title = "luizdepra"
 
-[module]
-[module.hugoVersion]
-min = "0.124.0"
+theme = "coder"
+
+languageCode = "en"
+defaultContentLanguage = "en"
+
+paginate = 20
+canonifyURLs = true
+
+enableEmoji = true
+enableGitInfo = true
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+
+[markup.highlight]
+style = "github-dark"
+tabWidth = 4
+
+[params]
+author = "Luiz de Prá"
+avatarURL = "images/avatar.jpg"
+images = ["images/og_cover.png"]
+description = "Luiz de Prá's personal site and blog"
+keywords = "blog,developer,personal,software,python,c++,go,rust"
+info = "Software and Game Developer"
+
+dateFormat = "2006-01-02"
+
+colorScheme = "dark"
+hideColorSchemeToggle = true
+
+customSCSS = ["scss/custom.scss"]
+
+[params.goatCounter]
+code = "luizdepra"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/luizdepra/"
+
+[[params.social]]
+name = "Bluesky"
+icon = "fa-brands fa-bluesky fa-2x"
+weight = 2
+url = "https://bsky.app/profile/luizdepra.dev"
+
+[[params.social]]
+name = "Mastodon"
+icon = "fa-brands fa-mastodon fa-2x"
+weight = 3
+url = "https://mastodon.gamedev.place/@luizdepra"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/luizdepra/"
+
+[[params.social]]
+name = "RSS"
+icon = "fa fa-rss-square fa-2x"
+weight = 5
+url = "/posts/index.xml"
+
+[[menu.main]]
+name = "Now"
+weight = 1
+url = "now/"
+
+[[menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[menu.main]]
+name = "About"
+weight = 3
+url = "about/"
