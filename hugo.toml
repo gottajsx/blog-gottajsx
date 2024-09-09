@@ -1,6 +1,6 @@
 title = "luizdepra"
 
-theme = "coder"
+theme = "hugo-coder"
 
 languageCode = "en"
 defaultContentLanguage = "en"
