@@ -82,3 +82,19 @@ url = "posts/"
 name = "About"
 weight = 3
 url = "about/"
+
+# Configuration multilingue
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = "GottaJSX"
+    description = "GottaJSX's personal site and blog"
+    menu = "main"
+
+  [languages.pt-br]
+    languageName = "Português (BR)"
+    weight = 2
+    title = "GottaJSX"
+    description = "Site pessoal e blog do GottaJSX"
+    menu = "main"
