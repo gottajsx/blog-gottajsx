@@ -1,4 +1,4 @@
-title = "luizdepra"
+title = "gottajsx"
 
 theme = "hugo-coder"
 
@@ -21,12 +21,12 @@ style = "github-dark"
 tabWidth = 4
 
 [params]
-author = "Luiz de Prá"
+author = "GottaJSX"
 avatarURL = "images/avatar.jpg"
 images = ["images/og_cover.png"]
-description = "Luiz de Prá's personal site and blog"
+description = "GottaJSX's personal site and blog"
 keywords = "blog,developer,personal,software,python,c++,go,rust"
-info = "Software and Game Developer"
+info = "Welcome, see my reminding notes"
 
 dateFormat = "2006-01-02"
 
@@ -42,25 +42,25 @@ code = "luizdepra"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/luizdepra/"
+url = "#"
 
 [[params.social]]
 name = "Bluesky"
 icon = "fa-brands fa-bluesky fa-2x"
 weight = 2
-url = "https://bsky.app/profile/luizdepra.dev"
+url = "#"
 
 [[params.social]]
 name = "Mastodon"
 icon = "fa-brands fa-mastodon fa-2x"
 weight = 3
-url = "https://mastodon.gamedev.place/@luizdepra"
+url = "#"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 4
-url = "https://www.linkedin.com/in/luizdepra/"
+url = "#"
 
 [[params.social]]
 name = "RSS"
