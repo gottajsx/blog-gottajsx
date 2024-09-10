@@ -58,8 +58,8 @@ npm start
 ```
 > If you've previously installed `create-react-app` globally via `npm install -g create-react-app`, we recommend you uninstall the package using `npm uninstall -g create-react-app` or `yarn global remove create-react-app` to ensure that `npx` always uses the latest version.
 
-npx comes with npm 5.2+ and higher.
+`npx` comes with `npm 5.2+` and higher.
 
-Then open http://localhost:3000/ to see your app.
+Then open *http://localhost:3000/* to see your app.
 
-When you’re ready to deploy to production, create a minified bundle with npm run build.
+When you’re ready to deploy to production, create a minified bundle with `npm run build`.
