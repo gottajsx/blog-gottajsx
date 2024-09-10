@@ -1,15 +1,11 @@
 +++
 authors = ["Lone Coder"]
-title = "ReactJS Liinux Installation"
+title = "ReactJS Linux Installation"
 date = "2024-09-10"
 description = "Guide for ReactJS Installation on Ubuntu Linux"
 tags = [
     "ReactJS",
 ]
-categories = [
-    "ReactJS"
-]
-series = ["ReactJS"]
 +++
 
 Developed by Facebook in 2011, React (also referred to as ReactJS) is a Javascript library used for creating fast and interactive user interfaces. At the time of writing, it’s the most popular Javascript library for developing user interfaces.
@@ -26,11 +22,8 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
 Do not use `sudo` , as it will enable nvm for the root user.
 
-The script will clone the project’s repository from GitHub to the `~/.nvm` directory:
-```
-...
-=> Close and reopen your terminal to start using nvm, or run the following to use it now:
-
+The script will clone the project’s repository from GitHub to the `~/.nvm` directory. Close and reopen your terminal to start using `nvm`, or run the following to use it now;
+```bash
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
