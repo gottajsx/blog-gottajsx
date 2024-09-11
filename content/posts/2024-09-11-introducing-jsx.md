@@ -2,7 +2,7 @@
 authors = ["Lone Coder"]
 title = "Introduction to JSX"
 date = "2024-09-11"
-description = ""This article introduces to what JSX is"
+description = "This article introduces to what JSX is"
 tags = [
     "ReactJS", "JSX"
 ]
