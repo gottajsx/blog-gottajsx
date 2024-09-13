@@ -1,7 +1,7 @@
 +++
 authors = ["Lone Coder"]
 title = "Create your first Expo app"
-date = "2024-09-13"
+date = "2024-09-12"
 description = "learn how to create a new Expo project and how to get it running"
 tags = [
     "ReactNative", "Expo"
