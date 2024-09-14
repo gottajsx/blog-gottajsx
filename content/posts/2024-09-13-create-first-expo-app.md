@@ -23,6 +23,11 @@ This tutorial also assumes that you have a basic knowledge of JavaScript and Rea
 
 We will use `create-expo-app` to initialize a new Expo app. It is a command line tool that allows us to create a new React Native project with the `expo` package installed. Run the following command in your terminal:
 ```bash
+npx create-expo-app@latest StickerSmash
+cd StickerSmasj
+```
+or
+```bash
 npx create-expo-app StickerSmash --template blank
 cd StickerSmash
 ```
