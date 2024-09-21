@@ -72,7 +72,7 @@ Each of these states could be managed by a single React component which is mainl
 
 This can be done within a React component with React Hooks. 
 
-### React `useState` Hook
+### React *useState* Hook
 
 The `useState` hook is a feature in React that allows functional components to manage state. Introduced in React version 16.8, the `useState` hook provides a way for functional components to have local state variables, enabling them to handle and update their state over the course of the component's lifecycle. 
 
@@ -82,7 +82,7 @@ It is particularly useful for managing simple to moderately complex state logic 
 
 This function triggers a re-render of the component with the new state value, ensuring that the UI reflects the most recent changes. 
 
-### `useState` Hook First Example
+### *useState* Hook First Example
 
 In below example, the `useState` hook takes an initial state as argument, just for the first time the React component renders, and returns an array with two values: 
 * the current state 
@@ -111,7 +111,7 @@ const App = () => {
 };
 ```
 
-### `usestate` Hook Second Example
+### *usestate* Hook Second Example
 
 Taking it one step further, it cannot be just used to increase an integer, but also to capture more dynamic state of an input HTML element when typing into it. 
 
