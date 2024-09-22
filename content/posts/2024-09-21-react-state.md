@@ -4,7 +4,7 @@ title = "Introduction to React State"
 date = "2024-09-21"
 description = "React State Basic Concepts"
 tags = [
-    "React", "Props"
+    "React", "State"
 ]
 +++
 
