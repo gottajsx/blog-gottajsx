@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = "React State versus React Prop"
+title = "React State versus React Props"
 date = "2024-09-22"
 description = "Description of Differences Between ReactJS State and Props"
 tags = [
