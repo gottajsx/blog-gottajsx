@@ -1,7 +1,7 @@
 +++
 authors = ["Lone Coder"]
 title = "Introduction to Redux"
-date = "2024-09-30"
+date = "2024-10-02"
 description = "The Basics of Redux"
 tags = [
     "React", "Redux", "State"
