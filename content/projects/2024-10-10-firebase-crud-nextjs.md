@@ -8,4 +8,4 @@ tags = [
 ]
 +++
 
-![crud_1](images/crud_101024_1.webp)
+![crud_1](static/images/crud_101024_1.webp)
