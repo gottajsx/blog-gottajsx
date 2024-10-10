@@ -79,8 +79,13 @@ weight = 2
 url = "posts/"
 
 [[menu.main]]
-name = "About"
+name = "Projects"
 weight = 3
+url = "projects/"
+
+[[menu.main]]
+name = "About"
+weight = 4
 url = "about/"
 
 # Configuration multilingue
