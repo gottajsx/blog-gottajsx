@@ -8,4 +8,4 @@ tags = [
 ]
 +++
 
-![crud_1]({{ .Site.BaseURL }}static/images/crud_101024_1.webp)
+![crud_1](/images/crud_101024_1.webp)
