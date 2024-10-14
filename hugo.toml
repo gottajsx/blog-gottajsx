@@ -68,10 +68,10 @@ icon = "fa fa-rss-square fa-2x"
 weight = 5
 url = "/posts/index.xml"
 
-[[menu.main]]
-name = "Now"
-weight = 1
-url = "now/"
+# [[menu.main]]
+# name = "Now"
+# weight = 1
+# url = "now/"
 
 [[menu.main]]
 name = "Blog"
