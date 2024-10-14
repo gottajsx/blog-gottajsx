@@ -38,35 +38,35 @@ customSCSS = ["scss/custom.scss"]
 [params.goatCounter]
 code = "luizdepra"
 
-[[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 1
-url = "#"
+# [[params.social]]
+# name = "Github"
+# icon = "fa-brands fa-github fa-2x"
+# weight = 1
+# url = "#"
 
-[[params.social]]
-name = "Bluesky"
-icon = "fa-brands fa-bluesky fa-2x"
-weight = 2
-url = "#"
+# [[params.social]]
+# name = "Bluesky"
+# icon = "fa-brands fa-bluesky fa-2x"
+# weight = 2
+# url = "#"
 
-[[params.social]]
-name = "Mastodon"
-icon = "fa-brands fa-mastodon fa-2x"
-weight = 3
-url = "#"
+# [[params.social]]
+# name = "Mastodon"
+# icon = "fa-brands fa-mastodon fa-2x"
+# weight = 3
+# url = "#"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa-brands fa-linkedin fa-2x"
-weight = 4
-url = "#"
+# [[params.social]]
+# name = "LinkedIn"
+# icon = "fa-brands fa-linkedin fa-2x"
+# weight = 4
+# url = "#"
 
-[[params.social]]
-name = "RSS"
-icon = "fa fa-rss-square fa-2x"
-weight = 5
-url = "/posts/index.xml"
+# [[params.social]]
+# name = "RSS"
+# icon = "fa fa-rss-square fa-2x"
+# weight = 5
+# url = "/posts/index.xml"
 
 # [[menu.main]]
 # name = "Now"
