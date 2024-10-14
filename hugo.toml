@@ -84,9 +84,9 @@ weight = 3
 url = "projects/"
 
 [[menu.main]]
-name = "About"
+name = "Hugo"
 weight = 4
-url = "about/"
+url = "hugo/"
 
 # Configuration multilingue
 [languages]
