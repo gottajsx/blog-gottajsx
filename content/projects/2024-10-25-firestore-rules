@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = "Firesbase Rules for Instagram Clone Project"
+title = "Firebase Rules for Instagram Clone Project"
 date = "2024-10-25"
 description = "Firestore and storage rules for Instagram clone project"
 tags = [
