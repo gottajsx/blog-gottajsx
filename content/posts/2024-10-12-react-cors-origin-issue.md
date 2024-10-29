@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = "CORQ Origin issue with React"
+title = "CORS Origin issue with React"
 date = "2024-10-15"
 description = "How to Solve CORS Origin Issue with React"
 tags = [
