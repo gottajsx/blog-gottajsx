@@ -18,10 +18,9 @@ rules_version = '2';
 
 service cloud.firestore {
   match /databases/{database}/documents {
-    // Autoriser la lecture à tout le monde, mais l'écriture uniquement aux utilisateurs authentifiés
     match /{document=**} {
-      allow read: if true;  // Tout le monde peut lire
-      allow write: if request.auth != null;  // Écriture uniquement pour les utilisateurs authentifiés
+      allow read: if true;
+      allow write: if request.auth != null;
     }
   }
 }
@@ -65,19 +64,14 @@ rules_version = '2';
 
 service firebase.storage {
   match /b/{bucket}/o {
-    // Permet la lecture à tout le monde, mais l'écriture seulement aux utilisateurs authentifiés pour le dossier 'posts'
     match /posts/{document=**} {
-      allow read: if true;  // Tout le monde peut lire
-      allow write: if request.auth != null;  // Écriture seulement pour les utilisateurs authentifiés
+      allow read: if true;
+      allow write: if request.auth != null;
     }
-
-    // Permet la lecture à tout le monde, mais l'écriture seulement aux utilisateurs authentifiés pour le dossier 'profilePics'
     match /profilePics/{document=**} {
-      allow read: if true;  // Tout le monde peut lire
-      allow write: if request.auth != null;  // Écriture seulement pour les utilisateurs authentifiés
+      allow read: if true; 
+      allow write: if request.auth != null; 
     }
-
-    // Vous pouvez ajouter d'autres règles pour d'autres dossiers si nécessaire
   }
 }
 ```
