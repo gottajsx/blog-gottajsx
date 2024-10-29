@@ -55,5 +55,70 @@ allow write: if request.auth != null;
 ```
 `allow write: if request.auth != null;` allows write access (creating, updating, or deleting documents) only if the user is authenticated. Here, `request.auth != null` checks if the request is made by a user who is logged in. If `request.auth` is null, that means the user is unauthenticated, and the write request will be denied.
 
+## Firebase Storage Rules
 
+This Firebase Storage security rules code controls access to files stored in specific folders within your Firebase Storage bucket, setting permissions for both reading and writing.
+
+Let's go through the following and explain it:
+```
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Permet la lecture à tout le monde, mais l'écriture seulement aux utilisateurs authentifiés pour le dossier 'posts'
+    match /posts/{document=**} {
+      allow read: if true;  // Tout le monde peut lire
+      allow write: if request.auth != null;  // Écriture seulement pour les utilisateurs authentifiés
+    }
+
+    // Permet la lecture à tout le monde, mais l'écriture seulement aux utilisateurs authentifiés pour le dossier 'profilePics'
+    match /profilePics/{document=**} {
+      allow read: if true;  // Tout le monde peut lire
+      allow write: if request.auth != null;  // Écriture seulement pour les utilisateurs authentifiés
+    }
+
+    // Vous pouvez ajouter d'autres règles pour d'autres dossiers si nécessaire
+  }
+}
+```
+
+```
+rules_version = '2';
+```
+This specifies that the rules are written in version 2, which may offer additional features or improved syntax compared to earlier versions.
+
+```
+service firebase.storage {
+  match /b/{bucket}/o {
+```
+This line defines the service as firebase.storage, indicating that these rules apply to Firebase Storage, which is used to store files such as images, videos, or other media.
+`match /b/{bucket}/o` applies these rules to all buckets within the Firebase Storage service. `{bucket}` is a placeholder for the bucket name, and `/o` represents "objects" or files within that bucket.
+
+### Access Rules for Specific Folders
+
+These rules provide different access levels for two folders within the storage: `posts` and `profilePics`.
+
+### Rules for the posts Folder
+
+```
+    match /posts/{document=**} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+```
+`match /posts/{document=**}` applies these rules to all files within the posts folder and any subfolders (because `{document=**}` is a wildcard for any path under `posts`).
+`allow read: if true;` allows anyone to read (view/download) files in this folder, whether or not they are authenticated.
+`allow write: if request.auth != null;` restricts write access (uploading or modifying files) to authenticated users only. If a user is unauthenticated (`request.auth == null`), they cannot write to this folder.
+
+#### Rules for the profilePics Folder
+
+```
+    match /profilePics/{document=**} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+```
+`match /profilePics/{document=**}` applies the same pattern of rules as in the `posts` folder, but now for all files within the `profilePics` folder and its subfolders.
+`allow read: if true;` grants read access to anyone, authenticated or not.
+`allow write: if request.auth != null;` allows only authenticated users to upload or modify files in this folder.
 
