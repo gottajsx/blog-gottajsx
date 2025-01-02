@@ -1,7 +1,7 @@
 +++
 authors = ["Lone Coder"]
 title = "ES7+ React/Redux/React-Native snippets"
-date = "2024-01-02"
+date = "2025-01-02"
 description = "ES7+ React/Redux/React-Native snippets"
 tags = [
     "React", "React-Native", "Snippets", "Vs Code"
