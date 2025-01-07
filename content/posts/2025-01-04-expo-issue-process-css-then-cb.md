@@ -49,9 +49,11 @@ npm i -D tailwindcss@3.3.2
 
 ## Solutions links
 
-See the following link for reference:
+See the following links for reference:
 
 https://stackoverflow.com/questions/76688256/getting-error-use-processcss-thencb-to-work-with-async-plugins
+
+https://www.youtube.com/watch?v=0MLloLPNzy8
 
 
 
