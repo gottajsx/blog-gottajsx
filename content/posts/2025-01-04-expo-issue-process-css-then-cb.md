@@ -1,10 +1,10 @@
 +++
 authors = ["Lone Coder"]
-title = "Getting Error: "Use process(css).then(cb) to work with async plugins""
+title = "Getting Error: 'Use process(css).then(cb) to work with async plugins'"
 date = "2025-01-04"
-description = "Getting Error: "Use process(css).then(cb) to work with async plugins""
+description = "Getting Error: 'Use process(css).then(cb) to work with async plugins'"
 tags = [
-    "React-Native", "Tailwindcss", "Nativewind"
+    "React-Native", "Tailwindcss", "Nativewind",
 ]
 +++
 
