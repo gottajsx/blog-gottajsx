@@ -47,6 +47,35 @@ or, as `--dev` is not an option for `NPM`, use
 npm i -D tailwindcss@3.3.2
 ```
 
+## Solution n 3
+
+In your `HomeScreen.js` file, wrap the relevant code using the `process(css).then(cb)` pattern mentioned in the error message. Here is an example of how you could modify your code:
+
+```jsx
+import { View, Text } from 'react-native';
+import React from 'react';
+import process from 'tailwindcss/lib';
+import styles from './styles.css';
+
+export default function HomeScreen() {
+  return (
+    <View>
+      <Text className="text-red">HomeScreen</Text>
+    </View>
+  );
+}
+
+// Async plugins processing
+process(styles)
+  .then(() => {
+    // Render your components after tailwindcss plugins have been processed
+    ReactDOM.render(<HomeScreen />, document.getElementById('root'));
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+```
+
 ## Solutions links
 
 See the following links for reference:
