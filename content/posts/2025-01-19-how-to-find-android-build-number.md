@@ -47,3 +47,7 @@ If the issue persists:
 * **Try a different USB port:** Some USB ports may not have the necessary drivers or power.
 * **Update Android Studio or your development environment:** Make sure you have the latest versions of your development tools.
 * **Reinstall Android Studio:** If the problem continues, try reinstalling Android Studio.
+
+## Usefull References
+
+https://www.airdroid.com/mdm/android-build-number/
