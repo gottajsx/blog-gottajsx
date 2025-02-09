@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-1. JRE (Java Runtime Environment)
+## JRE (Java Runtime Environment)
 
 The JRE is a runtime environment used to run Java applications. It includes everything needed to execute Java programs but does not include tools for developing them.
 
@@ -21,7 +21,7 @@ The JRE is a runtime environment used to run Java applications. It includes ever
 * If you only need to run Java applications (e.g., a `.jar` file).
 * If you are not developing or compiling Java code.
 
-2. JDK (Java Development Kit)
+## JDK (Java Development Kit)
 
 The JDK is a software development kit used to develop Java applications. It includes everything in the JRE, plus additional tools for compiling, debugging, and developing Java programs.
 
