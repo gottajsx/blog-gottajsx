@@ -1,8 +1,8 @@
 +++
 authors = ["Lone Coder"]
-title = "Install Android Studio on a Linux Machine"
-date = "2025-02-03"
-description = "How to install Android Studio on a Linux machine"
+title = "Start Android Emulator from Command Line"
+date = "2025-02-05"
+description = "How to start Android emulator from command line"
 tags = [
     "Android"
 ]
