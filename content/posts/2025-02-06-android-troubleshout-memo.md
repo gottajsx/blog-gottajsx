@@ -2,7 +2,7 @@
 authors = ["Lone Coder"]
 title = "Android Emulator Troubleshoot Memo"
 date = "2025-02-06"
-description = ""
+description = "Some tricks to overpass Android emulator troubleshoots"
 tags = [
     "Android"
 ]
