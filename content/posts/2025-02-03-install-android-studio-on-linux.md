@@ -1,54 +1,74 @@
 +++
 authors = ["Lone Coder"]
-title = "Start Android Emulator from Command Line"
-date = "2025-02-05"
-description = "How to start Android emulator from command line"
+title = "Install Android Studio on a Linux Machine"
+date = "2025-02-03"
+description = "How to install Android studio on a Linux machine"
 tags = [
     "Android"
 ]
 +++
 
-The Android SDK includes an Android device emulator—a virtual device that runs on your computer. The Android Emulator lets you develop and test Android apps without using a physical device.
+See pre-requisites on https://developer.android.com/studio/install
 
-## Start the emulator
+Set up Android Studio in just a few clicks. First, check the system requirements. Then download the [latest version of Android Studio](https://developer.android.com/studio).
 
-Use the `emulator` command to start the emulator, as an alternative to running your project or starting it through the AVD Manager.
+## Steps to Follow
 
-Here's the basic command-line syntax for starting a virtual device from a terminal prompt:
+To install Android Studio on Linux, follow these steps:
+
+* Unpack the `.tar.gz` file you downloaded to an appropriate location for your applications, such as within `/usr/local/` for your user profile or `/opt/` for shared users.
+
+For a 64-bit version of Linux, first install the required libraries for 64-bit machines.
+
+* To launch Android Studio, open a terminal, navigate to the `android-studio/bin/` directory, and execute `studio.sh`.
+
+* Select whether you want to import previous Android Studio settings, then click OK.
+
+* Complete the Android Studio **Setup Wizard**, which includes downloading the Android SDK components that are required for development.
+
+### Required libraries for 64-bit machines 
+
+If you are running a 64-bit version of Ubuntu, you need to install some 32-bit libraries with the following command:
 
 ```bash
-emulator -avd avd_name [ {-option [value]} … ]
+sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
 ```
 
-Or
+## Environment Variables
+
+You can configure the behavior of Android Studio and the command-line tools by setting environment variables. One of the most useful environment variables to set is `ANDROID_HOME`, which many tools read to determine the Android SDK installation directory. 
+
+To run tools from the command line without including the full path to the executable, set your command search path environment variable to include `ANDROID_HOME/tools`, `ANDROID_HOME/tools/bin`, and `ANDROID_HOME/platform-tools`.
+
+The location of the shell initialization script depends on the shell being used. For Gnu Bash, the location can be `~/.bash_profile` or `~/.bashrc`. For Zsh, the location can be `~/.zprofile`. For TCSH, the location can be `~/.cshrc`.
+
+You can also update the `PATH` environment variable to include the tool locations. So, for Gnu Bash or Zsh:
+
 ```bash
-emulator @avd_name [ {-option [value]} … ]
+export ANDROID_HOME=~/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools
 ```
-
-For example, if you launch the emulator from within Android Studio running on a Mac, the default command line will be similar to the following:
+or
 
 ```bash
-/Users/janedoe/Library/Android/sdk/emulator/emulator -avd Pixel8_API_34 -netdelay none -netspeed full -qt-hide-window -grpc-use-token -idle-grpc-timeout
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
 ```
 
-Please note that the arguments `-qt-hide-window` `-grpc-use-token` `-idle-grpc-timeout` are only used to run the emulator window within Android Studio. If you want to run the emulator on its own window, you should not use those extra parameters.
-
-You can specify startup options when you start the emulator, but not after it has started.
-
-For a list of AVD names, enter the following command:
+To verify that all pathes are correctly configure, you can try:
 ```bash
-emulator -list-avds
+adb --version
+emulator -version
+sdkmanager --version
 ```
 
-Use this option to display a list of AVD names from your Android home directory. You can override the default home directory by setting the `ANDROID_SDK_HOME` environment variable that specifies the root of the user-specific directory where all configuration and AVD content is stored.
+## Emulator Environment Variables
 
-You can set the environment variable in the terminal window before launching a virtual device or through your user settings in the operating system. For example, in your .bashrc file on Linux.
-
-To stop the Android Emulator, close the emulator window.
-
-
-
+By default, the emulator stores configuration files under `$HOME/.android/` and AVD data under `$HOME/.android/avd/`. You can override the defaults by setting the following environment variables. The `emulator -avd <avd_name>` command searches the **avd** directory in the order of the values in `$ANDROID_AVD_HOME`, `$ANDROID_USER_HOME/avd/`, and `$HOME/.android/avd/`.
 
 ## Reference Links:
 
-https://developer.android.com/studio/run/emulator-commandline
+https://developer.android.com/tools/variables
