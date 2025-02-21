@@ -46,9 +46,6 @@ You can set the environment variable in the terminal window before launching a v
 
 To stop the Android Emulator, close the emulator window.
 
-
-
-
 ## Reference Links:
 
 https://developer.android.com/studio/run/emulator-commandline

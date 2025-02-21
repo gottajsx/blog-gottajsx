@@ -26,7 +26,6 @@ We are also going to install some dependencies. Run these commands in your termi
 cd todo-app
 
 npm install @supabase/supabase-js @supabase/ssr react-icons
-...
 ```
 
  ## Setting up Supabase
