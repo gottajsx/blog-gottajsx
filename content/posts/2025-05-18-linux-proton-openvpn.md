@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = "How to manually configure OpenVPN for Proton VPN in Linux"
+title = "How to Manually Configure OpenVPN for Proton VPN in Linux"
 date = "2025-04-18"
 description = "Configure OpenVPN for Proton VPN"
 tags = [
@@ -47,4 +47,4 @@ Once NetworkManager supports OpenVPN, you can configure it. To do this:
 ![ovpn-4](/images/ovpn-linux-nm-4.webp)
 
 You’re now connected to Proton VPN. To verify this, visit [the free secure IP scanner](https://protonvpn.com/what-is-my-ip-address). Since this is a manual connection, you should also check DNS leaks.
-![geo-locator](/images/ip-geo-locator.png)
+![geo-locator](/images/ip-geo-lovator.png)
