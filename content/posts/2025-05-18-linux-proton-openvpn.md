@@ -33,4 +33,18 @@ sudo apt-get install network-manager-openvpn-gnome
 Log out of your Linux session, then log in again for the changes to take effect. 
 
 Once NetworkManager supports OpenVPN, you can configure it. To do this:
-![supabase_project_creation](/images/supabase_setup-100225_1.webp)
+
+1. Go to Settings **Settings → Network → VPN → +**
+![ovpn-1](/images/ovpn-linux-nm-1.webp)
+
+2. Select **Import from file…** and use your default file manager to **Open** the OpenVPN configuration file you downloaded earlier. 
+![ovpn-2](/images/ovpn-linux-nm-2.webp)
+
+3. Go to **Authentication** and enter your OpenVPN Username and Password into the relevant fields. Click **Add** when you’re done 
+![ovpn-3](/images/ovpn-linux-nm-3.webp)
+
+4. Back at **Settings → Network → VPN, toggle** the switch next to the OpenVPN connection you just set up to **on**. You can configure as many connections as you like.
+![ovpn-4](/images/ovpn-linux-nm-4.webp)
+
+You’re now connected to Proton VPN. To verify this, visit [the free secure IP scanner](https://protonvpn.com/what-is-my-ip-address). Since this is a manual connection, you should also check DNS leaks.
+![geo-locator](/images/ip-geo-locator.png)
