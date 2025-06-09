@@ -1,55 +1,61 @@
 +++
 authors = ["Lone Coder"]
-title = "How to Manually Configure OpenVPN for Proton VPN in Linux"
-date = "2025-04-18"
-description = "Configure OpenVPN for Proton VPN"
+title = "OpenVPN Linux CLI"
+date = "2025-04-19"
+description = "OpenVPN CLI"
 tags = [
     "VPN"
 ]
 +++
 
-OpenVPN is a battle-tested, open-source VPN protocol used by our Linux VPN app and Linux CLI. 
+## OpenVPN CLI
 
-## Preparing for OpenVPN
+To use OpenVPN CLI, simply type the following command on bash shell
 
-1. An OpenVPN configuration file
-
-Sign in to [account.protonvpn.com}(account.protonvpn.com) go to **Downloads → OpenVPN** configuration files, and download an OpenVPN configuration file for Linux.
-
-2. Your OpenVPN username and password
-
-While still signed in to [account.protonvpn.com}(account.protonvpn.com), go to **Account → OpenVPN / IKEv2 username** to view your OpenVPN username and password. Note that these are not your regular Proton Account username and password.
-
-## How to use OpenVPN with NetworkManager
-
-This is the recommended way to manually configure OpenVPN if your distribution supports NetworkManager(new window).
-
-This guide was created using Ubuntu 22.04, but the instructions are very similar on any system that supports NetworkManager. If your desktop environment uses NetworkManager, there’s a good chance that it already supports OpenVPN. If it doesn’t, you can easily install OpenVPN support in NetworkManager:
-
-On Debian and Ubuntu-based distributions, enter:
 ```bash
-sudo apt-get install network-manager-openvpn-gnome
+sudo openvpn --config ~/vpn/votre-config.ovpn
 ```
-Log out of your Linux session, then log in again for the changes to take effect. 
 
-Once NetworkManager supports OpenVPN, you can configure it. To do this:
+## Username and Password Memorization
 
-1. Go to Settings **Settings → Network → VPN → +**
+**Solution: Using an `auth.txt` file**
 
-![ovpn-1](/images/ovpn-linux-nm-1.webp)
+Create a text file containing your username and password. For example, create a file called `auth.txt` in your VPN folder:
 
-2. Select **Import from file…** and use your default file manager to **Open** the OpenVPN configuration file you downloaded earlier. 
+```bash
+nano ~/Documents/VPN/auth.txt
+```
 
-![ovpn-2](/images/ovpn-linux-nm-2.webp)
+Add the following two lines:
 
-3. Go to **Authentication** and enter your OpenVPN Username and Password into the relevant fields. Click **Add** when you’re done 
+```
+your_username
+your_password
+```
 
-![ovpn-3](/images/ovpn-linux-nm-3.webp)
+Save and close the file (Ctrl+O, Enter, then Ctrl+X in Nano).
 
-4. Back at **Settings → Network → VPN, toggle** the switch next to the OpenVPN connection you just set up to **on**. You can configure as many connections as you like.
+Edit your .ovpn (or .conf) file:
 
-![ovpn-4](/images/ovpn-linux-nm-4.webp)
+Add (or uncomment) the following line:
 
-You’re now connected to Proton VPN. To verify this, visit [the free secure IP scanner](https://protonvpn.com/what-is-my-ip-address). Since this is a manual connection, you should also check DNS leaks.
+```
+auth-user-pass auth.txt
+```
 
-![geo-locator](/images/ip-geo-lovator.png)
+Or adjust the line so that it points to your auth.txt file.
+
+Start OpenVPN with:
+
+```bash
+sudo openvpn --config ~/Documents/VPN/your-config.ovpn
+```
+
+🔒 Important Security Note
+
+➡️ Your `auth.txt` file contains your password in plain text!
+➡️ Make sure it’s only readable by you:
+
+```bash
+chmod 600 ~/Documents/VPN/auth.txt
+```
