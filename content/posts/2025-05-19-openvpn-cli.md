@@ -28,7 +28,7 @@ nano ~/Documents/VPN/auth.txt
 
 Add the following two lines:
 
-```
+```bash
 your_username
 your_password
 ```
@@ -39,7 +39,7 @@ Edit your .ovpn (or .conf) file:
 
 Add (or uncomment) the following line:
 
-```
+```bash
 auth-user-pass auth.txt
 ```
 
