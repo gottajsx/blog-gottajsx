@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = "Install Snapchat with Waydroid"
+title = "Install Snapchat with Waydroid [Not for X11]"
 date = "2025-04-22"
 description = "Install Snapchat With Waydroid"
 tags = [
