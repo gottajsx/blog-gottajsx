@@ -1,7 +1,7 @@
 +++
 authors = ["Lone Coder"]
 title = "MongoDB Atlas Authorized IPs"
-date = "2025-05-04"
+date = "2025-05-05"
 description = "Mongoose Environment File"
 tags = [
     "Atlas", "MongoDB"
