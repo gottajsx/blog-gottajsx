@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = "Download Medias from X Using dl-gallery"
+title = "tart with Atlas MongoDB"
 date = "2025-05-02"
 description = "Start with Atlas MongoDB"
 tags = [
