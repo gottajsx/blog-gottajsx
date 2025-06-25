@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = "tart with Atlas MongoDB"
+title = "Start with Atlas MongoDB"
 date = "2025-05-02"
 description = "Start with Atlas MongoDB"
 tags = [
