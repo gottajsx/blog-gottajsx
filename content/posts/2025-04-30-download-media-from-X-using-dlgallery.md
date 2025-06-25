@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = ""
+title = "Download Medias from X Using dl-gallery"
 date = "2025-04-30"
 description = "Download Medias from X Using dl-gallery"
 tags = [
