@@ -88,6 +88,11 @@ name = "Hugo"
 weight = 4
 url = "hugo/"
 
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 5
+
 # Configuration multilingue
 [languages]
   [languages.en]
