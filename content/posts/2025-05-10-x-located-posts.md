@@ -17,11 +17,13 @@ Pour identifier et collecter des posts publiés dans un pays spécifique, comme 
     * Une fois connecté, accédez à X via le site web ou l'application mobile. Les posts et tendances affichés seront influencés par la localisation du serveur VPN.
 
 2. Modifier les paramètres de localisation sur X :
-    * Sur X, vous pouvez ajuster manuellement votre localisation dans les paramètres de votre compte. Allez dans **Paramètres > Confidentialité** et **sécurité > Informations de localisation** et activez l'option pour ajouter une localisation à vos posts. Vous pouvez également explorer les tendances spécifiques à un pays en modifiant la région dans **Explorer > Tendances** et en sélectionnant Allemagne, Espagne, ou autre.
+    * Sur X, vous pouvez ajuster manuellement votre localisation dans les paramètres de votre compte. Allez dans **Paramètres > Confidentialité** et **sécurité > Informations de localisation** et activez l'option pour ajouter une localisation à vos posts. 
+    * Vous pouvez également explorer les tendances spécifiques à un pays en modifiant la région dans **Explorer > Tendances** et en sélectionnant Allemagne, Espagne, ou autre.
     * Note : X utilise parfois votre adresse IP ou les données de votre compte pour personnaliser le contenu, donc un VPN peut être nécessaire pour des résultats précis.
     
 3. Recherche avancée sur X :
-    * Utilisez la fonction de recherche avancée de X (disponible sur le site web ou via des outils tiers). Vous pouvez filtrer les posts par localisation en entrant le nom d'une ville ou d'un pays (par exemple, "from:Berlin" ou "near:Madrid") dans la barre de recherche.
+    * Utilisez la fonction de recherche avancée de X (disponible sur le site web ou via des outils tiers). 
+    * Vous pouvez filtrer les posts par localisation en entrant le nom d'une ville ou d'un pays (par exemple, "from:Berlin" ou "near:Madrid") dans la barre de recherche.
     * Exemple : Pour trouver des posts en Allemagne, tapez keyword near:Berlin, Germany ou keyword geocode:52.5200,13.4050,100km pour cibler une zone géographique précise autour de Berlin.
 
 4. Outils tiers pour collecter des posts :
