@@ -51,9 +51,9 @@ Pour publier des posts qui apparaissent comme provenant d'un pays spécifique (p
     
 4. Reposter du contenu :
     * Si vous souhaitez reposter des posts trouvés dans un pays (par exemple, un post publié en Allemagne), vous pouvez :
-            - Repartager (retweet) : Cliquez sur l'icône de repartage pour diffuser le post original à votre audience. Ajoutez un commentaire pour contextualiser ou traduire si nécessaire.
-            - Citer le post : Utilisez l'option "Citer le tweet" pour partager le contenu avec vos propres commentaires, en adaptant le message au public cible.
-            - Copier le contenu : Si vous souhaitez créer un nouveau post inspiré d'un autre, assurez-vous de respecter les droits d'auteur et de créditer l'auteur original si nécessaire (par exemple, "Inspiré par @utilisateur en Allemagne : [votre message]"). Évitez de copier mot pour mot sans permission.
+        * Repartager (retweet) : Cliquez sur l'icône de repartage pour diffuser le post original à votre audience. Ajoutez un commentaire pour contextualiser ou traduire si nécessaire.
+        * Citer le post : Utilisez l'option "Citer le tweet" pour partager le contenu avec vos propres commentaires, en adaptant le message au public cible.
+        * Copier le contenu : Si vous souhaitez créer un nouveau post inspiré d'un autre, assurez-vous de respecter les droits d'auteur et de créditer l'auteur original si nécessaire (par exemple, "Inspiré par @utilisateur en Allemagne : [votre message]"). Évitez de copier mot pour mot sans permission.
     
 5. Publicité ciblée (option payante) :
     * Si vous avez un compte professionnel, utilisez X Ads pour cibler des posts sponsorisés vers une audience spécifique en Allemagne, en Espagne, ou ailleurs. Vous pouvez définir des critères comme la localisation, la langue, ou les centres d'intérêt. Cela garantit que vos posts atteignent le public visé.
