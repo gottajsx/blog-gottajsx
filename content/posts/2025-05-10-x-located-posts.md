@@ -17,7 +17,7 @@ Pour identifier et collecter des posts publiés dans un pays spécifique, comme 
     * Une fois connecté, accédez à X via le site web ou l'application mobile. Les posts et tendances affichés seront influencés par la localisation du serveur VPN.
 
 2. Modifier les paramètres de localisation sur X :
-    * Sur X, vous pouvez ajuster manuellement votre localisation dans les paramètres de votre compte. Allez dans Paramètres > Confidentialité et sécurité > Informations de localisation et activez l'option pour ajouter une localisation à vos posts. Vous pouvez également explorer les tendances spécifiques à un pays en modifiant la région dans Explorer > Tendances et en sélectionnant Allemagne, Espagne, ou autre.
+    * Sur X, vous pouvez ajuster manuellement votre localisation dans les paramètres de votre compte. Allez dans **Paramètres > Confidentialité** et **sécurité > Informations de localisation** et activez l'option pour ajouter une localisation à vos posts. Vous pouvez également explorer les tendances spécifiques à un pays en modifiant la région dans **Explorer > Tendances** et en sélectionnant Allemagne, Espagne, ou autre.
     * Note : X utilise parfois votre adresse IP ou les données de votre compte pour personnaliser le contenu, donc un VPN peut être nécessaire pour des résultats précis.
     
 3. Recherche avancée sur X :
@@ -41,7 +41,8 @@ Pour publier des posts qui apparaissent comme provenant d'un pays spécifique (p
     * Note : X peut toujours utiliser les informations de votre compte (comme la langue ou le lieu indiqué dans votre profil) pour contextualiser votre post.
     
 2. Ajouter une localisation manuelle :
-    * Lorsque vous rédigez un post sur X, vous pouvez activer l'option de géolocalisation (icône de localisation sous la zone de texte). Indiquez une ville ou un pays spécifique, comme "Berlin, Allemagne" ou "Madrid, Espagne". Cela taguera votre post avec cette localisation, le rendant plus visible pour les utilisateurs de cette région.
+    * Lorsque vous rédigez un post sur X, vous pouvez activer l'option de géolocalisation (icône de localisation sous la zone de texte). 
+    * Indiquez une ville ou un pays spécifique, comme "Berlin, Allemagne" ou "Madrid, Espagne". Cela taguera votre post avec cette localisation, le rendant plus visible pour les utilisateurs de cette région.
     * Attention : Cette fonctionnalité dépend de l'activation de la géolocalisation dans les paramètres de votre appareil.
 
 3. Adapter le contenu au pays cible :
@@ -56,32 +57,36 @@ Pour publier des posts qui apparaissent comme provenant d'un pays spécifique (p
         * Copier le contenu : Si vous souhaitez créer un nouveau post inspiré d'un autre, assurez-vous de respecter les droits d'auteur et de créditer l'auteur original si nécessaire (par exemple, "Inspiré par @utilisateur en Allemagne : [votre message]"). Évitez de copier mot pour mot sans permission.
     
 5. Publicité ciblée (option payante) :
-    * Si vous avez un compte professionnel, utilisez X Ads pour cibler des posts sponsorisés vers une audience spécifique en Allemagne, en Espagne, ou ailleurs. Vous pouvez définir des critères comme la localisation, la langue, ou les centres d'intérêt. Cela garantit que vos posts atteignent le public visé.
+    * Si vous avez un compte professionnel, utilisez X Ads pour cibler des posts sponsorisés vers une audience spécifique en Allemagne, en Espagne, ou ailleurs. 
+    * Vous pouvez définir des critères comme la localisation, la langue, ou les centres d'intérêt. Cela garantit que vos posts atteignent le public visé.
 
 ## Conseils pratiques
 
-    * Respectez les lois locales : Assurez-vous que le contenu que vous repostez ou publiez respecte les réglementations des pays concernés (par exemple, lois sur la vie privée en Allemagne ou restrictions sur certains contenus en Espagne).
-    * Vérifiez la langue et le contexte : Traduisez correctement et adaptez le ton pour qu’il résonne avec l’audience locale. Par exemple, utilisez des expressions idiomatiques allemandes ou espagnoles si possible.
-    * Utilisez des outils de traduction : Si vous repostez un contenu dans une autre langue, des outils comme DeepL ou Google Translate peuvent aider à traduire précisément.
-    * Surveillez les performances : Utilisez les analyses de X (disponibles pour les comptes professionnels) pour vérifier si vos posts atteignent l’audience ciblée dans le pays choisi.
+1. Respectez les lois locales : Assurez-vous que le contenu que vous repostez ou publiez respecte les réglementations des pays concernés (par exemple, lois sur la vie privée en Allemagne ou restrictions sur certains contenus en Espagne).
+
+2. Vérifiez la langue et le contexte : Traduisez correctement et adaptez le ton pour qu’il résonne avec l’audience locale. Par exemple, utilisez des expressions idiomatiques allemandes ou espagnoles si possible.
+
+3. Utilisez des outils de traduction : Si vous repostez un contenu dans une autre langue, des outils comme DeepL ou Google Translate peuvent aider à traduire précisément.
+
+4. Surveillez les performances : Utilisez les analyses de X (disponibles pour les comptes professionnels) pour vérifier si vos posts atteignent l’audience ciblée dans le pays choisi.
 
 ## Limitations et précautions
 
-    * Géolocalisation imprécise : X ne permet pas toujours de filtrer les posts avec une précision parfaite par pays, car la géolocalisation dépend des utilisateurs et des paramètres de la plateforme.
+1. Géolocalisation imprécise : X ne permet pas toujours de filtrer les posts avec une précision parfaite par pays, car la géolocalisation dépend des utilisateurs et des paramètres de la plateforme.
     
-    * Restrictions de VPN : Certains services peuvent détecter l’utilisation d’un VPN et limiter l’accès à des contenus géolocalisés. Testez plusieurs fournisseurs si nécessaire.
+2. Restrictions de VPN : Certains services peuvent détecter l’utilisation d’un VPN et limiter l’accès à des contenus géolocalisés. Testez plusieurs fournisseurs si nécessaire.
 
-    * Règles de X : Le repartage ou la republication de contenu doit respecter les politiques de X, notamment en matière de droits d’auteur et de contenu sensible.
+3. Règles de X : Le repartage ou la republication de contenu doit respecter les politiques de X, notamment en matière de droits d’auteur et de contenu sensible.
 
 ## Exemple concret
 
-    Récupérer un post en Allemagne :
-        Connectez-vous à un VPN avec un serveur à Berlin.
-        Recherchez sur X avec des filtres comme near:Berlin ou #Deutschland.
-        Trouvez un post intéressant, par exemple : "Superbe journée à Berlin pour la #Oktoberfest !"
-        Enregistrez le post (capture d’écran ou lien) ou retweetez-le.
+1. Récupérer un post en Allemagne :
+    * Connectez-vous à un VPN avec un serveur à Berlin.
+    * Recherchez sur X avec des filtres comme near:Berlin ou #Deutschland.
+    * Trouvez un post intéressant, par exemple : "Superbe journée à Berlin pour la #Oktoberfest !"
+    * Enregistrez le post (capture d’écran ou lien) ou retweetez-le.
     
-    Poster en Espagne :
-        Connectez-vous à un VPN avec un serveur à Madrid.
-        Créez un post : "Inspiré par l’#Oktoberfest, qui fête quoi à Madrid ? #España" et ajoutez la localisation "Madrid, Espagne".
-        Publiez et surveillez les interactions avec l’audience espagnole.
+2. Poster en Espagne :
+    * Connectez-vous à un VPN avec un serveur à Madrid.
+    * Créez un post : "Inspiré par l’#Oktoberfest, qui fête quoi à Madrid ? #España" et ajoutez la localisation "Madrid, Espagne".
+    * Publiez et surveillez les interactions avec l’audience espagnole.
