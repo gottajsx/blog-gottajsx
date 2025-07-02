@@ -2,7 +2,7 @@
 authors = ["Lone Coder"]
 title = "Enhance Swap Size to Prevent Lubuntu Freezes"
 date = "2025-06-21"
-description = ""Enhance Swap Size to Prevent Lubuntu Freezes
+description = "Enhance Swap Size to Prevent Lubuntu Freezes"
 tags = [
     "Ubuntu", "Swap"
 ]
