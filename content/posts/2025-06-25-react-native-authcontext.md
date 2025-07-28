@@ -1,7 +1,7 @@
 +++
 authors = ["Lone Coder"]
 title = "Utiliser AuthContext Expo"
-date = "2025-06-04"
+date = "2025-06-25"
 description = "Utiliser AuthContext Expo"
 tags = [
     "expo", "react-native", "authcontext"
