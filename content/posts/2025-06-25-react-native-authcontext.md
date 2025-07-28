@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = "Utiliser AuthContext Expo
+title = "Utiliser AuthContext Expo"
 date = "2025-06-04"
 description = "Utiliser AuthContext Expo"
 tags = [
