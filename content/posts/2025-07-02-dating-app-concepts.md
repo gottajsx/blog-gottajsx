@@ -35,45 +35,26 @@ Voici 100 idées originales et amusantes pour une application de rencontre cibla
 
 ## 🧠 21–40 : Concepts intellectuels ou créatifs
 
-    Brain Crush – Test de logique ou QI pour matcher avec ton niveau.
-
-    Haiku Date – Tu dois écrire un haïku pour chaque match.
-
-    Audio Vibes – Les profils sont des voix, pas des visages.
-
-    Pitch Mon Crush – Tu "vends" ton pote à une fille.
-
-    Creative Crush – Montre une œuvre (dessin, son, etc.) pour matcher.
-
-    Bataille de Playlists – Tu bats un autre mec avec ta playlist.
-
-    Bio Builder – Tu construis ta bio à partir de cartes.
-
-    Rédige Ma Bio – Tu rédiges la bio des autres, pas la tienne.
-
-    Open Ending – Bio qui commence, mais c’est ton match qui la finit.
-
-    Je Te Devine – Les profils sont une énigme sur la personnalité.
-
-    Mini Fiction – Tu écris une mini-histoire d’amour fictive pour matcher.
-
-    CV de Relation – Tu fais un CV drôle de tes relations passées.
-
-    Twist Dating – Chaque semaine, les règles changent.
-
-    One Line Bio – Bio limitée à 6 mots.
-
-    Voice First – Les photos sont bloquées pendant 24h : on échange par voix.
-
-    Jury Love – Les matchs sont validés par une "jury room".
-
-    Blind Vote – Les filles votent à l’aveugle sans voir le profil.
-
-    IQ + EQ – Un test rapide d’intelligence et d’empathie.
-
-    Story First – Tu racontes ton anecdote la plus folle.
-
-    Chat Gimmick – Chaque jour, un filtre bizarre s’applique à la messagerie.
+21. **Brain Crush** – Test de logique ou QI pour matcher avec ton niveau.
+22. **Haiku Date** – Tu dois écrire un haïku pour chaque match.
+23. **Audio Vibes** – Les profils sont des voix, pas des visages.
+24. **Pitch Mon Crush** – Tu "vends" ton pote à une fille.
+25. **Creative Crush** – Montre une œuvre (dessin, son, etc.) pour matcher.
+26. **Bataille de Playlists** – Tu bats un autre mec avec ta playlist.
+27. **Bio Builder** – Tu construis ta bio à partir de cartes.
+28. **Rédige Ma Bio** – Tu rédiges la bio des autres, pas la tienne.
+29. **Open Ending** – Bio qui commence, mais c’est ton match qui la finit.
+30. **Je Te Devine** – Les profils sont une énigme sur la personnalité.
+31. **Mini Fiction** – Tu écris une mini-histoire d’amour fictive pour matcher.
+32. **CV de Relation** – Tu fais un CV drôle de tes relations passées.
+33. **Twist Dating** – Chaque semaine, les règles changent.
+34. **One Line Bio** – Bio limitée à 6 mots.
+35. **Voice First** – Les photos sont bloquées pendant 24h : on échange par voix.
+36. **Jury Love** – Les matchs sont validés par une "jury room".
+37. **Blind Vote** – Les filles votent à l’aveugle sans voir le profil.
+38. **IQ + EQ** – Un test rapide d’intelligence et d’empathie.
+39. **Story First** – Tu racontes ton anecdote la plus folle.
+40. **Chat Gimmick** – Chaque jour, un filtre bizarre s’applique à la messagerie.
 
 ## 📍41–60 : Concepts localisés, urbains ou IRL
 
@@ -129,7 +110,7 @@ Voici 100 idées originales et amusantes pour une application de rencontre cibla
 
     Vote pour Lui – Les filles notent les profils masculins pour faire monter leur "style".
 
-    Match Jury – Les garçons sont sélectionnés par un panel aléatoire de filles.
+    Match Jury – Les garçons sont sélecti## onnés par un panel aléatoire de filles.
 
     Rising Star – Les mecs ont un classement visible pour les motiver.
 
