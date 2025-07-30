@@ -58,126 +58,69 @@ Voici 100 idées originales et amusantes pour une application de rencontre cibla
 
 ## 📍41–60 : Concepts localisés, urbains ou IRL
 
-    Match Around – Tu vois qui crush dans ton métro.
-
-    Rendez-vous Minute – App de mini speed-dates en visio instantanés.
-
-    GeoBattle – Les quartiers de la ville sont en "guerre de charme".
-
-    Snap & Match – Envoie une photo de ton coin pour matcher.
-
-    Parcours Croisés – Tu matches si vous vous êtes croisés dans la ville.
-
-    Graffiti Crush – Des tags dans la ville contiennent des codes de rencontre.
-
-    Café Crush – L'app te fait matcher avec des gens dans les cafés où tu vas.
-
-    Gare de Love – Matchs au hasard quand tu es en transit.
-
-    Nightlife Radar – Tu vois qui sera dans la même soirée que toi.
-
-    Bar Code – Tu scannes un QR code dans un bar pour débloquer des matchs.
-
-    Sons de la Ville – Profils audio avec bruit ambiant de leur coin.
-
-    Mode Métro – Fonction qui ne se déclenche que sous terre.
-
-    Lignes de Cœur – Tu matches selon ta ligne de métro.
-
-    Crush Flash Mob – L'app organise des événements surprises IRL.
-
-    City Crush Hunt – Une chasse au trésor urbaine pour matcher.
-
-    Local Legend – Matchs avec les gens les mieux notés de ton quartier.
-
-    Code QR – Les mecs laissent des QR codes sur des affiches réelles.
-
-    Métro Minute – Matchs ultra-éphémères déclenchés dans les transports.
-
-    Lieu Commun – Tu matches avec ceux qui aiment les mêmes endroits.
-
-    Le Même Banc – Tu matches si vous avez été assis au même spot (via GPS).
+41. **Match Around** – Tu vois qui crush dans ton métro.
+42. **Rendez-vous Minute** – App de mini speed-dates en visio instantanés.
+43. **GeoBattle** – Les quartiers de la ville sont en "guerre de charme".
+44. **Snap & Match** – Envoie une photo de ton coin pour matcher.
+45. **Parcours Croisés** – Tu matches si vous vous êtes croisés dans la ville.
+46. **Graffiti Crush** – Des tags dans la ville contiennent des codes de rencontre.
+47. **Café Crush** – L'app te fait matcher avec des gens dans les cafés où tu vas.
+48. **Gare de Love** – Matchs au hasard quand tu es en transit.
+49. **Nightlife Radar** – Tu vois qui sera dans la même soirée que toi.
+50. **Bar Code** – Tu scannes un QR code dans un bar pour débloquer des matchs.
+51. **Sons de la Ville** – Profils audio avec bruit ambiant de leur coin.
+52. **Mode Métro** – Fonction qui ne se déclenche que sous terre.
+53. **Lignes de Cœur** – Tu matches selon ta ligne de métro.
+54. **Crush Flash Mob** – L'app organise des événements surprises IRL.
+55. **City Crush Hunt** – Une chasse au trésor urbaine pour matcher.
+56. **Local Legend*** – Matchs avec les gens les mieux notés de ton quartier.
+57. **Code QR** – Les mecs laissent des QR codes sur des affiches réelles.
+58. **Métro Minute** – Matchs ultra-éphémères déclenchés dans les transports.
+59. **Lieu Commun** – Tu matches avec ceux qui aiment les mêmes endroits.
+60. **Le Même Banc** – Tu matches si vous avez été assis au même spot (via GPS).
 
 ## 📊 61–80 : Concepts qui favorisent les garçons (sans nuire aux filles)
 
-    Candid Crush – Les filles reçoivent une sélection réduite de profils masculins hyper travaillés.
-
-    Profile Booster – Les garçons peuvent débloquer des "scènes" originales (présentation humoristique, mini jeu).
-
-    1 Minute Fame – Chaque mec a une minute de "boost" où son profil est ultra visible.
-
-    Crush Currency – Les filles reçoivent des "likes" à dépenser, mais les garçons peuvent les séduire pour en gagner.
-
-    Vote pour Lui – Les filles notent les profils masculins pour faire monter leur "style".
-
-    Match Jury – Les garçons sont sélecti## onnés par un panel aléatoire de filles.
-
-    Rising Star – Les mecs ont un classement visible pour les motiver.
-
-    Mystery Guy – Un profil masculin mystère est promu chaque jour.
-
-    Crush Draft – Les filles choisissent un "pool" de garçons et doivent matcher en les défendant.
-
-    Top 3 Reveal – Les filles n’ont accès qu’à leurs 3 coups de cœur par jour.
-
-    Voice Ranking – Les voix des garçons sont classées par les filles.
-
-    Secret Fan – Tu peux liker sans que ce soit visible, mais elle reçoit un "indice".
-
-    AutoBio – L’app aide les garçons à rédiger de super bios.
-
-    Crush League – Des compétitions de profil drôles (meilleure photo, meilleure punchline).
-
-    Vote Pour Mon Pote – Tu fais voter pour ton ami à la place.
-
-    Speed Boost Only – Les femmes ne peuvent pas swiper librement, juste des profils en "boost".
-
-    Mini CV Vidéo – Les gars postent une courte vidéo de présentation obligatoire.
-
-    Tinder à l’Envers – Les mecs font une présélection, les filles choisissent après.
-
-    Crush Coach – L’app donne aux mecs des conseils adaptés pour chaque match.
-
-    Rôle Play Game – Les garçons se créent des avatars type RPG (et doivent les "level up").
+61. **Candid Crush** – Les filles reçoivent une sélection réduite de profils masculins hyper travaillés.
+62. **Profile Booster** – Les garçons peuvent débloquer des "scènes" originales (présentation humoristique, mini jeu).
+63. **1 Minute Fame** – Chaque mec a une minute de "boost" où son profil est ultra visible.
+64. **Crush Currency** – Les filles reçoivent des "likes" à dépenser, mais les garçons peuvent les séduire pour en gagner.
+65. **Vote pour Lui** – Les filles notent les profils masculins pour faire monter leur "style".
+66. **Match Jury** – Les garçons sont sélecti## onnés par un panel aléatoire de filles.
+67. **Rising Star** – Les mecs ont un classement visible pour les motiver.
+68. **Mystery Guy** – Un profil masculin mystère est promu chaque jour.
+69. **Crush Draft** – Les filles choisissent un "pool" de garçons et doivent matcher en les défendant.
+70. **Top 3 Reveal** – Les filles n’ont accès qu’à leurs 3 coups de cœur par jour.
+71. **Voice Ranking** – Les voix des garçons sont classées par les filles.
+72. **Secret Fan** – Tu peux liker sans que ce soit visible, mais elle reçoit un "indice".
+73. **AutoBio** – L’app aide les garçons à rédiger de super bios.
+74. **Crush League** – Des compétitions de profil drôles (meilleure photo, meilleure punchline).
+75. **Vote Pour Mon Pote** – Tu fais voter pour ton ami à la place.
+76. **Speed Boost Only** – Les femmes ne peuvent pas swiper librement, juste des profils en "boost".
+77. **Mini CV Vidéo** – Les gars postent une courte vidéo de présentation obligatoire.
+78. **Tinder à l’Envers** – Les mecs font une présélection, les filles choisissent après.
+79. **Crush Coach** – L’app donne aux mecs des conseils adaptés pour chaque match.
+80. **Rôle Play Game** – Les garçons se créent des avatars type RPG (et doivent les "level up").
 
 ## 🌀 81–100 : Concepts WTF, absurdes ou méta
 
-    Tu Dégages ! – Pour matcher, il faut d’abord rejeter 5 profils.
-
-    Pas Mon Style – Tu matches avec ceux qui ne sont pas ton type.
-
-    Date Simulator – Mini-jeu de simulation de date style années 2000.
-
-    Ex Match – Tu matches avec des gens ressemblant à tes ex.
-
-    Pixel Love – Chaque profil est un avatar pixelisé customisable.
-
-    Mauvaise Photo – Tu mets exprès ta pire photo.
-
-    No Face Dating – Pas de photos de visage autorisées.
-
-    Emoji Crush – Tu n’as le droit d’échanger que des emojis pendant 24h.
-
-    Crush Machine – Tu tapes 3 critères, l’app te balance un "produit" (profil) aléatoire.
-
-    Nostalgie Date – App au design old school genre MSN.
-
-    Langue de Love – Chaque jour tu peux "matcher" dans une langue différente.
-
-    Rien En Commun – Tu matches seulement avec des gens opposés à toi.
-
-    Exclusion Date – Tu coches ce que tu détestes, et l’algorithme fait le reste.
-
-    Dating Tarot – L’app tire une carte pour te dire qui draguer.
-
-    Zombie Love – Tout le monde a des avatars de zombies ou monstres.
-
-    Cringe Crush – Tu matches si tu as ri au même mème.
-
-    Random Ringtone – Tu enregistres une sonnerie, si elle plaît tu matches.
-
-    Déguisement Obligatoire – Tu dois poster une photo en costume.
-
-    5% Match Only – L’app ne montre que les profils très rares (1% par jour).
-
-    Crush Rant – Tu peux voir les coups de gueule de ton match avant même la bio.
+81. **Tu Dégages !** – Pour matcher, il faut d’abord rejeter 5 profils.
+82. **Pas Mon Style** – Tu matches avec ceux qui ne sont pas ton type.
+84. **Date Simulator** – Mini-jeu de simulation de date style années 2000.
+84. **Ex Match** – Tu matches avec des gens ressemblant à tes ex.
+85. **Pixel Love** – Chaque profil est un avatar pixelisé customisable.
+86. **Mauvaise Photo** – Tu mets exprès ta pire photo.
+87. **No Face Dating** – Pas de photos de visage autorisées.
+88. **Emoji Crush** – Tu n’as le droit d’échanger que des emojis pendant 24h.
+89. **Crush Machine** – Tu tapes 3 critères, l’app te balance un "produit" (profil) aléatoire.
+90. **Nostalgie Date** – App au design old school genre MSN.
+91. **Langue de Love** – Chaque jour tu peux "matcher" dans une langue différente.
+92. **Rien En Commun** – Tu matches seulement avec des gens opposés à toi.
+93. **Exclusion Date** – Tu coches ce que tu détestes, et l’algorithme fait le reste.
+94. **Dating Tarot** – L’app tire une carte pour te dire qui draguer.
+95. **Zombie Love** – Tout le monde a des avatars de zombies ou monstres.
+96. **Cringe Crush** – Tu matches si tu as ri au même mème.
+97. **Random Ringtone** – Tu enregistres une sonnerie, si elle plaît tu matches.
+98. **Déguisement Obligatoire** – Tu dois poster une photo en costume.
+99. **5% Match Only** – L’app ne montre que les profils très rares (1% par jour).
+100. **Crush Rant** – Tu peux voir les coups de gueule de ton match avant même la bio.
