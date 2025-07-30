@@ -1,7 +1,7 @@
 +++
 authors = ["Lone Coder"]
 title = "Dating App Concepts"
-date = "2025-06-25"
+date = "2025-07-02"
 description = "Dating App Concepts"
 tags = [
     "Dating"
@@ -12,28 +12,28 @@ Voici 100 idées originales et amusantes pour une application de rencontre cibla
 
 ## 🎭 1-20 : Concepts basés sur le jeu et la mise en scène
 
-1. Masquerade Match – Les photos sont floutées, révélées au fil d'une conversation.
-2. Truth or Flirt – Mini-jeu action/vérité pour débloquer le profil complet.
-3. Swipe Battle Royale – Plusieurs prétendants, une fille vote en rounds éliminatoires.
-4. Crush Quiz – Tu dois répondre à un quiz commun pour matcher.
-5. Tinder ou Menteur ? – 2 bios, une vraie, une fausse. Tu dois deviner la bonne.
-6. Speed Sketch – Chaque match commence par un Pictionary en live.
-7. Challenge Me – Tu lances un défi à quelqu’un pour matcher.
-8. Impostor Love – Une sorte d’Among Us amoureux : 1 imposteur parmi des crushs.
-9. Vidéo Pitch – Les garçons doivent pitcher en 15 secondes max.
-10. Énigme Crush – Tu dois résoudre une énigme écrite par ton match.
-11. Emoji Only – Bio et chat autorisent uniquement des emojis.
-12. Roast & Toast – Tu peux choisir d’envoyer un compliment ou une pique.
-13. First Line Only – Tu vois seulement la première phrase envoyée par chaque prétendant.
-14. Meme Me Up – Tu fais ton profil uniquement avec des mèmes.
-15. Caption This – Les matchs doivent écrire une légende pour ta photo.
-16. Profil Inversé – Ce sont les autres qui écrivent ta bio.
-17. Dare to Match – Chaque match déclenche un défi en duo.
-18. Love Riddle – Chaque profil cache un code à décrypter.
-19. Parodie Crush – Tout le monde doit parodier une star ou un film dans sa bio.
-20. Cringe Battle – Qui peut faire la pire pickup line ?
+1. **Masquerade Match** – Les photos sont floutées, révélées au fil d'une conversation.
+2. **Truth or Flirt** – Mini-jeu action/vérité pour débloquer le profil complet.
+3. **Swipe Battle Royale** – Plusieurs prétendants, une fille vote en rounds éliminatoires.
+4. **Crush Quiz** – Tu dois répondre à un quiz commun pour matcher.
+5. **Tinder ou Menteur ?** – 2 bios, une vraie, une fausse. Tu dois deviner la bonne.
+6. **Speed Sketch** – Chaque match commence par un Pictionary en live.
+7. **Challenge Me** – Tu lances un défi à quelqu’un pour matcher.
+8. **Impostor Love** – Une sorte d’Among Us amoureux : 1 imposteur parmi des crushs.
+9. **Vidéo Pitch** – Les garçons doivent pitcher en 15 secondes max.
+10. **Énigme Crush** – Tu dois résoudre une énigme écrite par ton match.
+11. **Emoji Only** – Bio et chat autorisent uniquement des emojis.
+12. **Roast & Toast** – Tu peux choisir d’envoyer un compliment ou une pique.
+13. **First Line Only** – Tu vois seulement la première phrase envoyée par chaque prétendant.
+14. **Meme Me Up** – Tu fais ton profil uniquement avec des mèmes.
+15. **Caption This** – Les matchs doivent écrire une légende pour ta photo.
+16. **Profil Inversé** – Ce sont les autres qui écrivent ta bio.
+17. **Dare to Match** – Chaque match déclenche un défi en duo.
+18. **Love Riddle** – Chaque profil cache un code à décrypter.
+19. **Parodie Crush** – Tout le monde doit parodier une star ou un film dans sa bio.
+20. **Cringe Battle** – Qui peut faire la pire pickup line ?
 
-🧠 21–40 : Concepts intellectuels ou créatifs
+## 🧠 21–40 : Concepts intellectuels ou créatifs
 
     Brain Crush – Test de logique ou QI pour matcher avec ton niveau.
 
@@ -75,7 +75,7 @@ Voici 100 idées originales et amusantes pour une application de rencontre cibla
 
     Chat Gimmick – Chaque jour, un filtre bizarre s’applique à la messagerie.
 
-📍41–60 : Concepts localisés, urbains ou IRL
+## 📍41–60 : Concepts localisés, urbains ou IRL
 
     Match Around – Tu vois qui crush dans ton métro.
 
@@ -117,7 +117,7 @@ Voici 100 idées originales et amusantes pour une application de rencontre cibla
 
     Le Même Banc – Tu matches si vous avez été assis au même spot (via GPS).
 
-📊 61–80 : Concepts qui favorisent les garçons (sans nuire aux filles)
+## 📊 61–80 : Concepts qui favorisent les garçons (sans nuire aux filles)
 
     Candid Crush – Les filles reçoivent une sélection réduite de profils masculins hyper travaillés.
 
@@ -159,7 +159,7 @@ Voici 100 idées originales et amusantes pour une application de rencontre cibla
 
     Rôle Play Game – Les garçons se créent des avatars type RPG (et doivent les "level up").
 
-🌀 81–100 : Concepts WTF, absurdes ou méta
+## 🌀 81–100 : Concepts WTF, absurdes ou méta
 
     Tu Dégages ! – Pour matcher, il faut d’abord rejeter 5 profils.
 
