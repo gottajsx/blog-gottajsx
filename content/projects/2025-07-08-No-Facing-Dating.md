@@ -110,3 +110,10 @@ Après le reveal, l’app propose un jeu :
 
 * Ton match peut voter “vrai/faux”
 * Amène rires et discussions
+
+## 🧪 MVP ultra-simple
+
+* Upload photo avec détection automatique de visage
+* Galerie floutée
+* Swipe avec bio + ambiance
+* Match → déverrouillage visage si double opt-in
