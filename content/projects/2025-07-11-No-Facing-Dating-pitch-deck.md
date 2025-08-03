@@ -1,7 +1,7 @@
 +++
 authors = ["Lone Coder"]
 title = "No Facing Dating Pitch Deck"
-date = "2025-07-08"
+date = "2025-07-11"
 description = "No Facing Dating"
 tags = [
     "Dating"
