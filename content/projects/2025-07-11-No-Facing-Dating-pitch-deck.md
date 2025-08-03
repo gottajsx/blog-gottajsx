@@ -103,7 +103,7 @@ Une app où aucune photo de visage n’est autorisée.
 * Modération & IA anti-visage – partenariat early stage avec service externe
 
 
-11. 📈 Demande d’investissement
+## 11. 📈 Demande d’investissement
 
 **💸 Montant recherché : 250K € (pre-seed)**
 * 40% Développement app
