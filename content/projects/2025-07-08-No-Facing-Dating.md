@@ -54,3 +54,34 @@ Zéro exception. Pas de selfie. Pas de photo de groupe où tu es "le troisième 
     * Ton ombre sur un mur
 
 * La bio est facultative, mais les questions fun sont incitées.
+
+## 🫥 Pourquoi ça marche
+
+* Casse les codes du “beau-gosse/pretty-girl privilege”.
+
+* Instaure une **curiosité** : "Qui est cette personne ?"
+
+* Les matchs se basent sur **vibe + style + originalité**, pas sur les traits parfaits.
+
+## 🔓 Révélation partielle possible ?
+
+Oui, mais en mode déblocage mutuel :
+
+* Une fois qu’il y a **match + échange de 5 messages**, tu peux **choisir de révéler ton visage**.
+
+* Sinon, la conversation reste dans le flou.
+
+
+## 👨‍👩‍👧‍👦 Ce que ça favorise chez les garçons
+
+* Ils peuvent **se mettre en valeur autrement** :
+
+    * Style vestimentaire
+
+    * Ambiance de leurs photos
+
+    * Humour dans la bio ou réponses
+
+* Les filles ont tendance à juger le “package vibe” plus que juste la gueule.
+
+* Moins de pression sur la beauté frontale, plus de jeu sur l’attitude + créativité.
