@@ -84,4 +84,33 @@ Oui, mais en mode déblocage mutuel :
 
 * Les filles ont tendance à juger le “package vibe” plus que juste la gueule.
 
-* Moins de pression sur la beauté frontale, plus de jeu sur l’attitude + créativité.
+* Moins de pression sur la beauté frontale, plus de jeu sur **l’attitude + créativité**.
+
+
+
+## 📷 Fonctionnalités principales
+
+### 1. Galerie anonyme**
+
+* Jusqu’à 6 photos sans visage
+
+* Filtres automatiques (flou sur le haut du visage si nécessaire)
+
+* Tu peux taguer des ambiances : “Chill”, “Street”, “Mélancolique”, “Arty”
+
+
+### 2. Bio stylisée
+
+* Réponses à choix ou libres :
+
+    * “Un lieu où tu voudrais aller : ____”
+
+    * “Une phrase que t’as déjà dite après minuit : ____”
+
+    * “Ton mood idéal pour un date : ____”
+
+### 3. Reveal mutuel
+
+* Pas de visage tant que le match n’a pas décidé d’ouvrir l’image déverrouillée.
+
+* L’image s'affiche avec une animation genre “rideau qui se lève”.
