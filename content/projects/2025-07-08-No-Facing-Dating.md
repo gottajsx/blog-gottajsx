@@ -96,3 +96,17 @@ Oui, mais en mode déblocage mutuel :
 * Scan IA pour bloquer les visages visibles
 * Floutage automatique en upload
 * Signalement renforcé sur contenu à caractère sexuel (vu que les photos sont plus suggestives)
+
+## 💸 Monétisation possible
+
+* **Reveal Boost** : voir qui est prêt à débloquer son visage avec toi
+* **Premium Style Filter** : recherche par type de photos, look, couleur dominante
+* **Apparence surprise** : révélation aléatoire floutée (un “brouillard” stylisé partiellement)
+
+## 🔥 Bonus fun : "Tu ressembles à..."
+
+Après le reveal, l’app propose un jeu :
+🧠 “D’après ton style, on pensait que tu ressemblais à : ____”
+
+* Ton match peut voter “vrai/faux”
+* Amène rires et discussions
