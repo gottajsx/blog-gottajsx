@@ -1,6 +1,6 @@
 +++
 authors = ["Lone Coder"]
-title = "No Facing Dating Pitch Deck"
+title = "No Facing Dating MVP"
 date = "2025-07-15"
 description = "No Facing Dating"
 tags = [
@@ -38,10 +38,7 @@ L’app doit permettre de :
 * Créer les wireframes + flow utilisateurs (Figma)
 * Maquettage UI : minimaliste, stylisé, mobile-first
 * Prototypage rapide pour tests internes
-
-
-
-    Prototypage rapide pour tests internes
+* Prototypage rapide pour tests internes
 
 #### Livrables :
 * Flow utilisateurs clairs
