@@ -75,3 +75,31 @@ L’app doit permettre de :
 * Sécurisation des données utilisateur (Firebase Auth + Firestore rules)
 * Dashboard admin simple : modération, signalement, stats
 * Analytics de base : taux d’upload valide, matchs, reveal
+
+### Phase 3 – Test, debug, amélioration (Semaines 9–10)
+
+#### 📌 Semaine 9 – Alpha test privé
+
+* 50 à 100 utilisateurs réels (étudiants, Discord, amis)
+* Observation des bugs UX / bugs tech
+*  Recueillir feedback ciblé : frustration, moments cool, fonctionnalités manquantes
+
+#### 📌 Semaine 10 – Itérations
+
+* Correction bugs critiques
+* Simplification des flows trop complexes
+* Intégration micro-animations (swipe, match, reveal) si temps
+
+### Phase 4 – Pré-lancement bêta (Semaines 11–12)
+
+#### 📌 Semaine 11 – Préparation lancement
+
+* Créer landing page simple + formulaire d’accès bêta
+* Créer visuels TikTok, campagne mail, groupe Discord
+* Setup Firebase App Distribution / TestFlight
+
+##### 📌 Semaine 12 – Lancement bêta publique (1000 personnes)
+
+* Campagne TikTok + liste d’attente → distribution accès en vague
+* Support utilisateurs, recueil de bugs
+* Activation de métriques : taux de match, taux de reveal, temps de conversation
