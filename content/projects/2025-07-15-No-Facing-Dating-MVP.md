@@ -103,3 +103,10 @@ L’app doit permettre de :
 * Campagne TikTok + liste d’attente → distribution accès en vague
 * Support utilisateurs, recueil de bugs
 * Activation de métriques : taux de match, taux de reveal, temps de conversation
+
+## 🧩 TIPS POUR UN MVP RÉUSSI
+
+* **Pas de perf inutile** : un design propre mais simple suffit pour l’instant
+* **Data first** : traque tout ce qui valide ou invalide les hypothèses clés
+* **Lean** mais pas brouillon : une UX bancale tuera l’intérêt viral
+* Prépare des **scripts de messages automatiques** pour guider les utilisateurs
