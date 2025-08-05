@@ -44,3 +44,34 @@ L’app doit permettre de :
 * Flow utilisateurs clairs
 * Prototype Figma cliquable
 * Cahier des charges tech light
+
+### Phase 2 – Développement core (Semaines 3–8)
+
+#### 📌 Semaine 3–4 – Auth, profil, upload photo
+
+* Auth via email ou numéro
+* Création de profil (nom, âge, style, texte court)
+* Upload de 3 à 6 photos (interdiction visage)
+* Intégration du filtrage automatique de visage
+    * Rejet automatique ou floutage forcé si détection faciale
+
+#### 📌 Semaine 5 – Swiping / matching
+
+* Affichage de profils anonymes (style galerie)
+* Swipe right/left
+*  Match si les deux ont swipé
+* Logging des matchs
+
+#### 📌 Semaine 6–7 – Chat & Reveal
+
+* Système de messagerie simple (type Firebase Chat)
+* Blocage auto des images et liens
+* Déverrouillage visage après 5 messages échangés mutuellement
+    * Animation “défloutage” (optionnelle mais sympa)
+    * Permission explicite des deux utilisateurs
+
+#### 📌 Semaine 8 – Backend / sécurisation
+
+* Sécurisation des données utilisateur (Firebase Auth + Firestore rules)
+* Dashboard admin simple : modération, signalement, stats
+* Analytics de base : taux d’upload valide, matchs, reveal
